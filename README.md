@@ -1,0 +1,2 @@
+# Projetos_E_Desafios_Dio
+ Descrição: Este repositório é um espaço dedicado para armazenar todos os meus projetos e desafios realizados durante os cursos e desafios da Digital Innovation One (DIO). Aqui, você encontrará uma coleção dos meus trabalhos práticos, desde pequenos projetos de programação até desafios mais complexos. Sinta-se à vontade para explorar, aprender com o código e compartilhar suas sugestões. Vamos crescer juntos na jornada da programação! 🚀💻
